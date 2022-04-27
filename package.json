@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Este escript utiliza la librería de *faker* y el modulo de node **fs** para generar un archivo de texto con 1000 nombres aleatorios.",
   "main": "fakerName.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
